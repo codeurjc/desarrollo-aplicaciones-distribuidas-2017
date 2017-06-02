@@ -1,0 +1,36 @@
+[submodule "La-Apostada"]
+	path = La-Apostada
+	url = https://github.com/arubioVK/La-Apostada
+[submodule "vetManager"]
+	path = vetManager
+	url = https://github.com/mtenrero/vetManager
+[submodule "FutWorld"]
+	path = FutWorld
+	url = https://github.com/jpalomon/FutWorld
+[submodule "SaleWeb"]
+	path = SaleWeb
+	url = https://github.com/jeche21/SaleWeb
+[submodule "eBazarOnline"]
+	path = eBazarOnline
+	url = https://github.com/x-chen4/eBazarOnline
+[submodule "BlocNow"]
+	path = BlocNow
+	url = https://github.com/NachoGM27/BlocNow
+[submodule "GamingValley"]
+	path = GamingValley
+	url = https://github.com/MauroSpagnoli/GamingValley
+[submodule "MePhone"]
+	path = MePhone
+	url = https://github.com/javitor89/MePhone
+[submodule "VirtualCoach"]
+	path = VirtualCoach
+	url = https://github.com/Perezfa/VirtualCoach
+[submodule "EndlessElectronicMusic"]
+	path = EndlessElectronicMusic
+	url = https://github.com/AlexRoman6/EndlessElectronicMusic
+[submodule "PeSeMu"]
+	path = PeSeMu
+	url = https://github.com/gloriagonzalezpiorno/PeSeMu
+[submodule "BasketGo-"]
+	path = BasketGo-
+	url = https://github.com/SaulAlonso/BasketGo-
